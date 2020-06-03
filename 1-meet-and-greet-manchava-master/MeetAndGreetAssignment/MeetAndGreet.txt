@@ -1,0 +1,24 @@
+```
+************************************************
+Vismaya Manchaiah
+************************************************
+
+email: manchava@mail.uc.edu
+
+** Personal Background:
+----------------------------
+I was born in California. I am a 2019 graduate of Springboro High School.
+
+** Programming Languages:
+----------------------------
+1. Java
+2. Python
+3. SQL
+
+** Achievements and Things I would like to share:
+---------------------------------------------------
+1. Girl Scouts Gold Award
+2. Congressional Award
+
+************************************************
+```
